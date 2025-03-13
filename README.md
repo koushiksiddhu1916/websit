@@ -13,7 +13,7 @@
 
   <h2 align="center">FASHION FORWARD - where style meets comfort</h2>
 
-  Casmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  FASHION FORWARD is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://casmart.vercel.app/"><strong>➥ Live Demo</strong></a>
 
@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Casmart Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![FASHION FORWARD Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
